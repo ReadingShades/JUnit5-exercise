@@ -12,7 +12,7 @@ class TreasureChestTest {
 	}
 
 	@Test
-	void testTreasureChest2() {
+	void testTreasureChest() {
 		fail("Not yet implemented");
 	}
 
